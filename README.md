@@ -1,3 +1,102 @@
+Guide d'utilisation de l'application React TypeScript
+Ce guide vous fournira les instructions nécessaires pour 
+utiliser et exécuter notre application React qui est faite  
+avec le language TypeScript. Vous y trouverez les étapes pour 
+installer les dépendances requises, ainsi que les commandes pour 
+installer ces dépendances et démarrer l'application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
